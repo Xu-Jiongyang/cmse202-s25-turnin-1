@@ -2,3 +2,4 @@
 Initial commit of HW 2
 Committing Part 1
 Committing Part 2
+Committing Part 3
